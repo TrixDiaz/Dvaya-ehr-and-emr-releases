@@ -7,18 +7,18 @@
     "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/app-archive.json"
   },
   "release": {
-    "version": "1.0.44",
+    "version": "1.0.46",
     "buildNumber": 1,
     "platform": "windows",
     "channel": "stable",
-    "path": "releases/stable/1.0.44/build-1/windows/release.json",
-    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.44/build-1/windows/release.json"
+    "path": "releases/stable/1.0.46/build-1/windows/release.json",
+    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.46/build-1/windows/release.json"
   },
   "artifact": {
-    "path": "releases/stable/1.0.44/build-1/windows/Dvaya-1.0.44-windows.zip",
-    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.44/build-1/windows/Dvaya-1.0.44-windows.zip",
+    "path": "releases/stable/1.0.46/build-1/windows/Dvaya-1.0.46-windows.zip",
+    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.46/build-1/windows/Dvaya-1.0.46-windows.zip",
     "kind": "zip",
-    "sha256": "54bd814873755a726018eb8f66ed22f939166e26d9f4324a1d17e12b2e764946",
-    "length": 25043905
+    "sha256": "ddeee6b486f2be483c06814e3690a5d67c9863bfbce3a6cc05889b90cea5995a",
+    "length": 25044630
   }
 }
