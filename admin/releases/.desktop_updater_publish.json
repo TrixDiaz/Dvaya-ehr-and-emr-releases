@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/",
+  "localRoot": "C:\\Users\\princ\\OneDrive\\Documents\\GitHub\\dvaya\\admin\\dist\\desktop_updater",
+  "appArchive": {
+    "path": "app-archive.json",
+    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/app-archive.json"
+  },
+  "release": {
+    "version": "1.0.47",
+    "buildNumber": 1,
+    "platform": "windows",
+    "channel": "stable",
+    "path": "releases/stable/1.0.47/build-1/windows/release.json",
+    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.47/build-1/windows/release.json"
+  },
+  "artifact": {
+    "path": "releases/stable/1.0.47/build-1/windows/Dvaya-1.0.47-windows.zip",
+    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.47/build-1/windows/Dvaya-1.0.47-windows.zip",
+    "kind": "zip",
+    "sha256": "b38bc1d52230094c71ef00bae810eae34a562b5db0720e519287cb04f24de2e6",
+    "length": 25047430
+  }
+}
