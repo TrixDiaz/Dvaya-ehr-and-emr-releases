@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 3,
+  "appName": "Dvaya",
+  "items": [
+    {
+      "version": "1.0.43",
+      "buildNumber": 1,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.43/build-1/windows/release.json"
+    }
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-df2fe3895beef088b46d865a",
+    "value": "v+BMSih5hynQehxATeAXt2w/DghQTAo7PCA+R8s82jiVC7i9BlLUZuIUv11aVkyX2KgTRHBbu5nZm3/c+zx4Cw=="
+  }
+}
