@@ -41,11 +41,19 @@
       "channel": "stable",
       "mandatory": false,
       "release": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.48/build-48/windows/release.json"
+    },
+    {
+      "version": "1.0.50",
+      "buildNumber": 50,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.50/build-50/windows/release.json"
     }
   ],
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-df2fe3895beef088b46d865a",
-    "value": "Y6SlOJC5/FNB1e/d7zdlfxkGx9QlWitlcSy17OfMDQuLuUjnKetRqQvoRMmp4xJ4BosAkHrXFvvJThMGcgTxDQ=="
+    "value": "8AG4X+FZvQU+IaREdI3jTYIauOjubf6kHtuUIU26WwMp38CgVxG7USWYi1tx4oMbdqhG0mQwcypyVnwoufdKBw=="
   }
 }
