@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "dvaya",
+  "appName": "Dvaya",
+  "version": "1.0.51",
+  "buildNumber": 51,
+  "platform": "windows",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://trixdiaz.github.io/Dvaya-ehr-and-emr-releases/admin/releases/stable/1.0.51/build-51/windows/Dvaya-1.0.51-windows.zip",
+    "sha256": "df07f48f8217dec4d36232d25e45081b58b9020ba7d43cd104c3b770944f9c7e",
+    "length": 25053587
+  },
+  "install": {
+    "strategy": "wholeDirectoryReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-df2fe3895beef088b46d865a",
+    "value": "lvLzLCMeK2vCCH8EctAtEgArtHzXz6b9t//F/pI46cp/Z0juO2wHO5R+JsFyUPw1TI4eyt3oC+zGyHgqqkUvBQ=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-10-11T17:38:04.845829Z"
+}
